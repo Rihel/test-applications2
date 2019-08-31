@@ -9,14 +9,14 @@
 	"alias": {
 		"@serverless-pane": "packages/@serverless/components/Pane/src/index.vue"
 	},
-	"appKey": "TUSDGUq5eieePXWIh7kPdHE0XIzoYjHg",
-	"appSecret": "oQcbli8KFNQbVKJP8gAb0d9zwToVx3rf",
+	"appKey": "Sk6LnE5rgt24UUo7MltdCVWkdRnCD5zD",
+	"appSecret": "Q5sRc970fCHZpg9STKhHSGomsDuOKO2S",
 	"framework": "vue",
 	"git": {
 		"url": "https://github.com/Rihel/test-applications2.git",
 		"isPrivate": false
 	},
-	"id": 86,
+	"id": 87,
 	"links": {
 		"BarChart": "packages/@serverless/pages/BarChart/src/index.vue"
 	},
