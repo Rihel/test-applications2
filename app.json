@@ -1,0 +1,16 @@
+{
+    "name": "test-application-two",
+    "description": "测试应用2",
+    "dependencies": {},
+    "alias": {},
+    "appKey": "TUSDGUq5eieePXWIh7kPdHE0XIzoYjHg",
+    "appSecret": "oQcbli8KFNQbVKJP8gAb0d9zwToVx3rf",
+    "framework": "vue",
+    "git": {
+        "url": "https://github.com/Rihel/test-applications2.git",
+        "isPrivate": false
+    },
+    "id": 86,
+    "platform": "pc",
+    "projectId": 41
+}
