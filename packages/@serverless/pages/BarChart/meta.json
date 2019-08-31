@@ -1,0 +1,20 @@
+{
+    "name": "bar-chart",
+    "version": "1.0.0",
+    "title": "条形图",
+    "description": "条形图",
+    "type": "page",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/24/distd5b793803f395f57784737683fe9267e/index.html",
+    "category": [
+        "图表"
+    ],
+    "screenshots": [
+        "/screenshots/24/d5b793803f395f57784737683fe9267e/1566995654236.png"
+    ],
+    "path": "pages/BarChart",
+    "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+    "hash": "d5b793803f395f57784737683fe9267e"
+}

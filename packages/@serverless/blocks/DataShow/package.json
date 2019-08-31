@@ -1,0 +1,74 @@
+{
+    "name": "data-show",
+    "version": "1.0.0",
+    "description": "主要显示头部统计数据",
+    "homepage": "http://gitlab.deepexi.top/deepexi/xpaas-frontend/xpaas-materilas/tree/master/blocks/DataShow/build/index.html",
+    "repository": "http://gitlab.deepexi.top/deepexi/xpaas-frontend/xpaas-materilas/tree/master/blocks/DataShow",
+    "files": [
+        "src/",
+        "lib/",
+        "build/",
+        "screenshot.png"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "ice",
+        "vue",
+        "block"
+    ],
+    "scripts": {
+        "dev": "vue-cli-service serve",
+        "start": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint",
+        "screenshot": "spaas-devtools screenshot --ossConfig ../../ossConfig.js",
+        "prepublishOnly": "npm run build && npm run screenshot"
+    },
+    "dependencies": {
+        "element-ui": "^2.4.11",
+        "@femessage/theme-deepexi": "^2.4.11",
+        "vue": "^2.5.16"
+    },
+    "devDependencies": {
+        "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
+        "@vue/babel-preset-jsx": "^1.0.0",
+        "@vue/cli-plugin-babel": "^3.4.0",
+        "@vue/cli-plugin-eslint": "^3.4.0",
+        "@vue/cli-service": "^3.4.0",
+        "babel-eslint": "^10.0.1",
+        "eslint": "^5.8.0",
+        "eslint-plugin-vue": "^5.0.0",
+        "vue-template-compiler": "^2.5.21",
+        "less": "^3.9.0",
+        "less-loader": "^5.0.0",
+        "element-ui": "^2.11.1",
+        "node-sass": "^4.12.0",
+        "sass-loader": "^7.3.1",
+        "sass-resources-loader": "^2.0.1"
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true
+        },
+        "extends": [
+            "plugin:vue/essential",
+            "eslint:recommended"
+        ],
+        "rules": {},
+        "parserOptions": {
+            "parser": "babel-eslint"
+        }
+    },
+    "blockConfig": {
+        "name": "data-show",
+        "title": "统计数据显示",
+        "categories": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "screenshot": "http://deepexi-moby.oss-cn-shenzhen.aliyuncs.com/spaas-materials/%40spaas/data-show%401.0.0/screenshot.png"
+    }
+}

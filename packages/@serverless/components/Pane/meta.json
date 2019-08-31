@@ -1,0 +1,16 @@
+{
+  "name": "pane",
+  "version": "1.0.0",
+  "title": "嵌板",
+  "description": "带标题和内容的嵌板",
+  "type": "component",
+  "category": ["其他"],
+  "screenshots": [
+    "/screenshots/24/cf4e512ad428624454929dcd7e5d4b23/1566995631652.png"
+  ],
+  "path": "components/Pane",
+  "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+  "hash": "cf4e512ad428624454929dcd7e5d4b23",
+  "homePage": "/materials/24/distcf4e512ad428624454929dcd7e5d4b23/index.html",
+  "platform": ["PC"]
+}

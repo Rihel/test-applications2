@@ -1,0 +1,16 @@
+{
+  "name": "data-show",
+  "version": "1.0.0",
+  "title": "统计数据显示",
+  "description": "主要显示头部统计数据",
+  "type": "block",
+  "category": ["数据展示"],
+  "platform": ["PC"],
+  "screenshots": [
+    "/screenshots/24/6aa0fbf39c97fca80c1f9b553fc742d4/1566995762009.png"
+  ],
+  "path": "blocks/DataShow",
+  "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+  "homePage": "/materials/24/dist6aa0fbf39c97fca80c1f9b553fc742d4/index.html",
+  "hash": "6aa0fbf39c97fca80c1f9b553fc742d4"
+}

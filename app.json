@@ -1,16 +1,25 @@
 {
-    "name": "test-application-two",
-    "description": "测试应用2",
-    "dependencies": {},
-    "alias": {},
-    "appKey": "TUSDGUq5eieePXWIh7kPdHE0XIzoYjHg",
-    "appSecret": "oQcbli8KFNQbVKJP8gAb0d9zwToVx3rf",
-    "framework": "vue",
-    "git": {
-        "url": "https://github.com/Rihel/test-applications2.git",
-        "isPrivate": false
-    },
-    "id": 86,
-    "platform": "pc",
-    "projectId": 41
+	"name": "test-application-two",
+	"description": "测试应用2",
+	"dependencies": {
+		"bar-chart": "1.0.0",
+		"data-show": "1.0.0",
+		"pane": "1.0.0"
+	},
+	"alias": {
+		"@serverless-pane": "packages/@serverless/components/Pane/src/index.vue"
+	},
+	"appKey": "TUSDGUq5eieePXWIh7kPdHE0XIzoYjHg",
+	"appSecret": "oQcbli8KFNQbVKJP8gAb0d9zwToVx3rf",
+	"framework": "vue",
+	"git": {
+		"url": "https://github.com/Rihel/test-applications2.git",
+		"isPrivate": false
+	},
+	"id": 86,
+	"links": {
+		"BarChart": "packages/@serverless/pages/BarChart/src/index.vue"
+	},
+	"platform": "pc",
+	"projectId": 41
 }
