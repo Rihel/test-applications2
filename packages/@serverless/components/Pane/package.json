@@ -56,7 +56,7 @@
         "rollup-plugin-jsx": "^1.0.3",
         "rollup-plugin-less": "^1.1.2",
         "rollup-plugin-node-resolve": "^5.1.0",
-        "standard-version": "^6.0.1",
+        "standard-version": "^8.0.1",
         "vue-loader": "^15.7.0",
         "vue-styleguidist": "3.11.4",
         "less": "^3.9.0",
